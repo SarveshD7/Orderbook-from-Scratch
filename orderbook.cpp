@@ -102,7 +102,9 @@ class OrderModify{
         Side side_;
         Quantity quantity_;
 
-}
+};
+
+
 
 int main(){
 
